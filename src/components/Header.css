@@ -1,0 +1,16 @@
+.Header-Container{
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: 25vh;
+    justify-content: space-evenly;
+    background-color: #E8EEF6;
+}
+
+.Header-Container button{
+
+    width: 10%;
+    background-color: #0079FC;
+
+}
